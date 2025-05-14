@@ -57,9 +57,11 @@ This project aims to help users choose **safer travel paths** using accident his
 1️⃣ Clone the repository
 git clone https://github.com/aryaaaji/AI-POWERED-ROUTE-SAFETY-PREDICTOR.git
 cd AI-POWERED-ROUTE-SAFETY-PREDICTOR
+
 2️⃣ Install requirements
 Make sure Python 3.8+ is installed, then run:
 pip install -r requirements.txt
+
 3️⃣ Launch the app
 streamlit run app.py
 
@@ -79,8 +81,11 @@ APIs Used
 👩‍💻 Author
 
 Arya Aji
+
 B.Tech, Electrical and Electronics Engineering
+
 National Institute of Technology, Warangal
+
 📧 aryaaji102500@gmail.com
 
 📜 License
