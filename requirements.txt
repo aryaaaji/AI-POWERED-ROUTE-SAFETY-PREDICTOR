@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+folium
+requests
+joblib
+graphhopper-api
+openweathermap-api
