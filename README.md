@@ -53,6 +53,7 @@ This project aims to help users choose **safer travel paths** using accident his
 
 
  🚀 How to Run Locally
+ 
 1️⃣ Clone the repository
 git clone https://github.com/aryaaaji/AI-POWERED-ROUTE-SAFETY-PREDICTOR.git
 cd AI-POWERED-ROUTE-SAFETY-PREDICTOR
@@ -64,6 +65,7 @@ streamlit run app.py
 
 
 APIs Used
+
 🌍 GraphHopper Routing API
 🌦 OpenWeatherMap API
 
@@ -75,11 +77,13 @@ APIs Used
 🔬 Explore deep learning models like XGBoost or LSTM
 
 👩‍💻 Author
+
 Arya Aji
 B.Tech, Electrical and Electronics Engineering
 National Institute of Technology, Warangal
 📧 aryaaji102500@gmail.com
 
 📜 License
+
 This project is licensed under the MIT License.
 Feel free to fork, modify, and use it with attribution.
